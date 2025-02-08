@@ -231,7 +231,7 @@ th {
 }
 
 button {
-  border-radius: 0;
+  border-radius: 10px ;
 }
 
 button:focus:not(:focus-visible) {
@@ -244,6 +244,7 @@ button {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+  border-radius: 10px;
 }
 
 button {
